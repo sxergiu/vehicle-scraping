@@ -14,7 +14,7 @@ This project involves the ethical and polite web scraping of **two car data webs
 
 | Website               | URL                                   
 |-----------------------|----------------------------------------|
-| CarsData Site 1       | `https://www.cars-data.com/en`  
+| CarsData Site 1       | `https://www.cars-data.com/en/`  
 | CarsData Site 2       | `https://www.auto-data.net/en/` 
 
 > All sources have been reviewed for **robots.txt** rules and **Terms of Service**. We will implement appropriate delays, user-agent headers, and respect disallowed paths.
